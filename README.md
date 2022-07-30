@@ -1,4 +1,4 @@
-# Usando o Swagger com ExpressJs
+# Demonstrativo usando o Swagger com ExpressJs
 
 **Tutorial:** https://dailyspaghetticode.com/creating-an-api-with-nodejs-and-expressjs/
 
